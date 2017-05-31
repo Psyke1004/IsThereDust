@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">IsThereDust</string>
+    <string name="title_activity_main2"></string>
+
+    <string name="area_list">지역목록</string>
+    <string name="add">추가</string>
+    <string name="area_dust">지역별 대기</string>
+    <string name="air_condition">대기상태별</string>
+    <string name="favorites">즐겨찾기</string>
+    <string name="setting">세팅</string>
 </resources>
